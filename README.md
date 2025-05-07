@@ -15,4 +15,4 @@ To **download** the codes, please navigate to the main page of this repository, 
 The **Model** folder includes the *codes* to perform the wildfire damage state prediction for structure in California, USA, and a *step-by-step instruction*. 
 
 
-Note that the codes were run on Python 3.10.14 (TensorFlow 2.13.1 required) and MATLAB R2023b. The authors recommend running the Python codes on Jupyter Notebook. Running the codes on different versions of Python, TensorFlow, or MATLAB may result in compatibility issues. However, most compatibility issues can be resolved by following the suggestions in the error messages.
+Note that the codes were run on Python 3.12.7 (TensorFlow 2.18.0 required) and MATLAB R2023b. The authors recommend running the Python codes on Jupyter Notebook. Running the codes on different versions of Python, TensorFlow, or MATLAB may result in compatibility issues. However, most compatibility issues can be resolved by following the suggestions in the error messages.
