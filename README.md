@@ -5,7 +5,7 @@ Two wildfire damage states, derived from the CAL FIRE Damage Inspection (DINS) d
 
 
 For more information, please refer to the following:\
-Jia, Y., and Opabola, E. (2025). "Interpretable Machine Learning Insights into Wildfire Damage Drivers in California, USA", *International Journal of Disaster Risk Reduction*, xxx: xxxxx (https://xxxxxxx).
+Jia, Y., and Opabola, E. (2025). "Interpretable Machine Learning Insights into Wildfire Damage Drivers in California, USA", *International Journal of Disaster Risk Reduction*, 126: 105610 (https://www.sciencedirect.com/science/article/pii/S2212420925004340).
 <br/><br/>
 
 As **prerequisites**, users need to have access to run Python and MATLAB codes. No training in machine learning is required to perform the wildfire damage state prediction for California. 
